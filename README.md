@@ -18,10 +18,3 @@
    2. Get the code in the [CountriesUsingUSD](./CountriesUsingUSD/js/script.js)
 
 Note: Please find the full code snippet in the [FullSnippet](./FullSnippet/js/script.js) folder
-
-
-
-
-
-
-Print the following details name, capital, flag, using forEach method
