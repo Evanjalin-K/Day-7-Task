@@ -1,6 +1,7 @@
 # Day 7 Task
 
-## **Displaying the specific data from the rest countries (https://restcountries.com/v3.1/all) by using the arrow function, filter and reduce method**
+## **The task is about getting the specific data from the rest countries URL by using the arrow function, filter, and reduce method**
+ 
 1. Get all the countries from Asia continent /region using Filter method:
    1. Displayed all the countries from the Asia continent or region using the filter method
    2. Get the code in the [AsianCountries](./AsianCountries/)folder
